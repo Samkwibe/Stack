@@ -1,11 +1,6 @@
 /*
 Samuel KWibe
- ID # 2278332
- Email: Samuel.kwibe@snhu.edu
- class :217
-In - Class Assignment # 4
-Array - Based Stack
-
+Lincked List Stack
 In this assignment, I'm going to build a program that's a stack for keeping track of student records.
 Each record in this stack will include details like the student's name, ID, phone number,
 and home address. My task is to enable adding new records on top of the stack, which
